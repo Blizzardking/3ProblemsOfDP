@@ -28,12 +28,12 @@ III. Compiling and Executing on command line
 on command line,
 
 To compile, run:
-change your current working directory to Project8_Renkai_Ji_and_Zhuoyi_Wang:
+change your current working directory to Project:
 javac -d . *.java
 
 
 To execute, run:
-change your current working directory to Project8_Renkai_Ji_and_Zhuoyi_Wang:
+change your current working directory to Project:
 java WeightProblem
 java DiscordProblem
 java PrulProblem
